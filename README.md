@@ -22,14 +22,14 @@ make start
  To stop the application and free up the used ports, use the following command:
 
 ```bash
-make start
+make stop
 ```
 
 ### Clean the build files
  To clear all build files, use the following command:
 
 ```bash
-make start
+make clean
 ```
 
 ## Testing  
